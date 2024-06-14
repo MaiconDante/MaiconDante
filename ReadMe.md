@@ -1,9 +1,10 @@
 # 💾 About Me:
-Eu trabalho atualmente com T.I (Tecnologia da Informação)<br>Certificate MD-100 - Graduado Gestão de Tecnologia da Informação<br>Estudo a linguagem de programação PYTHON, para se especializar<br>Também estudo HTML e CSS, assim aprofundando meus conhecimentos<br>Aumentando mais ainda o conhecimento na área de Tecnologia. 
-
+Eu trabalho atualmente com T.I (Tecnologia da Informação).<br>Certificate MD-100 - Graduado em Gestão de Tecnologia da Informação.<br>Estudo a linguagem de programação PYTHON, para se especializar !!!<br>Também estudo HTML e CSS, assim aprofundando meus conhecimentos.<br>Aumentando mais ainda o conhecimento na área de Tecnologia !!!
+<hr>
 
 ## 🌍 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/maicon.paesbezbirolo) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/maicondante/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/maicon-paes-bez-birolo-a49a7368/) 
+<hr>
 
 # 💻 Tech Stack:
 <hr>
