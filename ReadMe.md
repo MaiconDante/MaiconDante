@@ -34,4 +34,4 @@ Eu trabalho atualmente com T.I (Tecnologia da Informação).<br>Certificate MD-1
 ---
 [![](https://visitcount.itsvg.in/api?id=MaiconDante&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<img src="https://gifs.eco.br/wp-content/uploads/2022/10/gifs-de-linha-6.gif"></img>
+<img height=200 width=800 src="https://developers.giphy.com/branch/master/static/api-512d36c09662682717108a38bbb5c57d.gif"></img>
