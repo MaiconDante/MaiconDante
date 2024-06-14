@@ -22,9 +22,12 @@ Eu trabalho atualmente com T.I (Tecnologia da Informação)<br>Certificate MD-10
 [![](https://visitcount.itsvg.in/api?id=MaiconDante&icon=2&color=1)](https://visitcount.itsvg.in)
 
 
-<div style="display: flex;">
-  <img src="https://github-readme-stats.vercel.app/api?username=MaiconDante&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" style="margin-right: 10px;">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MaiconDante&theme=dracula&hide_border=false" alt="GitHub Streak">
-</div>
-<br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiconDante&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs">
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=MaiconDante&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"></td>
+    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=MaiconDante&theme=dracula&hide_border=false" alt="GitHub Streak"></td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiconDante&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs"></td>
+  </tr>
+</table>
