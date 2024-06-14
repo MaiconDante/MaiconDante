@@ -7,7 +7,7 @@ Eu trabalho atualmente com T.I (Tecnologia da Informação)<br>Certificate MD-10
 
 # 💻 Tech Stack:
 <hr>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />       
+<img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />       
 <hr>
 
 # 📊 GitHub Stats:
