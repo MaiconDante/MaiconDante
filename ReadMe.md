@@ -1,7 +1,7 @@
 # 💾 About Me:
 <div>
 
-<img height=200 width=200 src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXl2OXJmNWdyOWV4c3o2dHUxNzJjeThocTJtN3NoZWdyY3M1ejIzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"></img>
+<img height=200 width=200 src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXl2OXJmNWdyOWV4c3o2dHUxNzJjeThocTJtN3NoZWdyY3M1ejIzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp">hhhhh</img>
 
 Eu trabalho atualmente com T.I (Tecnologia da Informação).Certificate MD-100 - Graduado em Gestão de Tecnologia da Informação.Estudo a linguagem de programação PYTHON, para se especializar !!!Também estudo HTML e CSS, assim aprofundando meus conhecimentos.Aumentando mais ainda o conhecimento na área de Tecnologia !!!
 
