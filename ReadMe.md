@@ -15,13 +15,9 @@ Eu trabalho atualmente com T.I (Tecnologia da Informação)<br>Certificate MD-10
 <img height=100 width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" /></div>  <hr>
 
 # 📊 GitHub Stats:
-<div>
 ![](https://github-readme-stats.vercel.app/api?username=MaiconDante&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MaiconDante&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiconDante&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-</div>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MaiconDante&icon=2&color=1)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
