@@ -3,7 +3,7 @@
 <tr>
 <td><img height=200 width=200 src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXl2OXJmNWdyOWV4c3o2dHUxNzJjeThocTJtN3NoZWdyY3M1ejIzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"></img></td>
 <td> 
-<p text-align: Justify> Eu trabalho atualmente com T.I (Tecnologia da Informação).<br>Certificate MD-100 - Graduado em Gestão de Tecnologia da Informação.<br>Estudo a linguagem de programação PYTHON, para se especializar !!!<br>Também estudo HTML e CSS, assim aprofundando meus conhecimentos.<br>Aumentando mais ainda o conhecimento na área de Tecnologia !!!</p>
+<p text-align=Justify> Eu trabalho atualmente com T.I (Tecnologia da Informação).<br>Certificate MD-100 - Graduado em Gestão de Tecnologia da Informação.<br>Estudo a linguagem de programação PYTHON, para se especializar !!!<br>Também estudo HTML e CSS, assim aprofundando meus conhecimentos.<br>Aumentando mais ainda o conhecimento na área de Tecnologia !!!</p>
 </td>
 </tr>
 </table>
