@@ -34,4 +34,4 @@ Eu trabalho atualmente com T.I (Tecnologia da Informação).<br>Certificate MD-1
 ---
 [![](https://visitcount.itsvg.in/api?id=MaiconDante&icon=2&color=1)](https://visitcount.itsvg.in)
 
-![Snake animation](https://github.com/MaiconDante/MaiconDante/blob/output/github-contribution-grid-snake.svg)
+[![Snake animation](https://github.com/MaiconDante/MaiconDante/blob/output/github-contribution-grid-snake.svg)](https://www.alura.com.br/artigos/assets/como-criar-um-readme-para-seu-perfil-github/imagem15.gif)
