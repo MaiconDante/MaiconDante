@@ -3,7 +3,7 @@
 <tr>
 <td><img height=100 width=100 src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXl2OXJmNWdyOWV4c3o2dHUxNzJjeThocTJtN3NoZWdyY3M1ejIzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"></img></td>
 <td align="center"> 
-Eu trabalho atualmente com T.I (Tecnologia da Informação).<br>Certificate MD-100 - Graduado em Gestão de Tecnologia da Informação.<br>Estudo a linguagem de programação PYTHON, para se especializar !!!<br>Também estudo HTML e CSS, assim aprofundando meus conhecimentos.<br>Aumentando mais ainda o conhecimento na área de Tecnologia !!!
+Eu trabalho atualmente com T.I (Tecnologia da Informação).<br>Certificate MD-100 - Graduado em Gestão de Tecnologia da Informação e Graduando Engenharia da Computação<br>Estudo a linguagem de programação PYTHON, para me especializar !!!br>Também estudo tecnologias como HTML, CSS, JAVASCRIPT<, assim aprofundando meus aprendizados.<br>Aumentando mais ainda o meu conhecimento na área de Tecnologia !!!
 </td>
 </tr>
 </table>
@@ -13,10 +13,10 @@ Eu trabalho atualmente com T.I (Tecnologia da Informação).<br>Certificate MD-1
 <div></p><img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> 
 <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
 <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
-<img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain-wordmark.svg" />
+<img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg"/>
 <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
 <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" />
-<img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" /></div>
+<img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /></div>
 <hr>
 
 ### 📊 GitHub Stats:
