@@ -26,11 +26,11 @@ Eu trabalho atualmente com T.I (Tecnologia da Informação) - Técnico Pleno.<br
 
 ### 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaiconDante&theme=dracula)
+![Stats](https://github-readme-stats.vercel.app/api?username=MaiconDante&theme=dracula&cache_seconds=86400)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=MaiconDante&theme=dracula)
+![Streak](https://streak-stats.demolab.com/?user=MaiconDante&theme=dracula&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiconDante&theme=dracula&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiconDante&theme=dracula&layout=compact&cache_seconds=86400)
 
 
 ### 🌍 Socials:
