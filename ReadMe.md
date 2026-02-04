@@ -25,15 +25,13 @@ Eu trabalho atualmente com T.I (Tecnologia da Informação) - Técnico Pleno.<br
 <hr>
 
 ### 📊 GitHub Stats:
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=MaiconDante&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats"></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=MaiconDante&theme=dracula&hide_border=false" alt="GitHub Streak"></td>
-  </tr>
-  <tr>
-    <td colspan="2"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiconDante&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact" alt="Top Langs"></td>
-  </tr>
-</table>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MaiconDante&theme=dracula)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=MaiconDante&theme=dracula)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaiconDante&theme=dracula&layout=compact)
+
 
 ### 🌍 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maicon-paes-bez-birolo-a49a7368/) 
