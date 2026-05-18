@@ -3,7 +3,7 @@
 <tr>
 <td><img height=100 width=100 src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXl2OXJmNWdyOWV4c3o2dHUxNzJjeThocTJtN3NoZWdyY3M1ejIzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"></img></td>
 <td align="center"> 
-Eu trabalho atualmente com T.I (Tecnologia da Informação) - Técnico Pleno.<br>Microsoft Certified: Modern Desktop Administrator (MD-100) - 2021 - Graduado em Gestão de Tecnologia da Informação<br>Graduando em Engenharia da Computação<br>Estudo a linguagem de programação PYTHON, para me especializar !!!<br>Também estudo tecnologias como HTML, CSS, JAVASCRIPT<br> Assim aprofundando meus aprendizados.<br>Aumentando ainda mais o meu conhecimento na área de Tecnologia !!!
+Eu trabalho atualmente com T.I (Tecnologia da Informação) - Técnico Pleno.<br>Microsoft Certified: Modern Desktop Administrator (MD-100) - 2021 - Graduado em Gestão de Tecnologia da Informação e<br>Graduando em Engenharia da Computação (Bacharelado) - [Em andamento] e Pós-Graduando em Desenvolvimento de Sistemas com Python (Especialização / Lato Sensu) – [Em andamento]<br>Estudo a linguagem de programação PYTHON, para me especializar !!!<br>Também estudo tecnologias como HTML, CSS, JAVASCRIPT, SQL e um pouco de REACT<br> Assim aprofundando meus aprendizados.<br>Aumentando ainda mais o meu conhecimento na área de Tecnologia !!!
 </td>
 </tr>
 </table>
@@ -19,8 +19,7 @@ Eu trabalho atualmente com T.I (Tecnologia da Informação) - Técnico Pleno.<br
 <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" />
 <img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
-<img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-<img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />          
+<img height=50 width=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />       
 </div>
 <hr>
 
