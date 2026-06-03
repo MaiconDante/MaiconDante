@@ -3,11 +3,11 @@
 <tr>
 <td><img height=100 width=100 src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXl2OXJmNWdyOWV4c3o2dHUxNzJjeThocTJtN3NoZWdyY3M1ejIzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"></img></td>
 <td align="center"> 
-🎓 Graduado em Gestão da Tecnologia da Informação, graduando em Engenharia da Computação (Bacharelado) e pós-graduando em Desenvolvimento de Sistemas com Python.
-🏅 Microsoft Certified: Modern Desktop Administrator (MD-100) - 2021.
-💻 Profissional focado em tecnologia, desenvolvimento de software e aprendizado contínuo. Atualmente direciono meus estudos para a especialização em Python, desenvolvendo projetos e aprimorando conhecimentos em programação, automação, desenvolvimento de aplicações e boas práticas de desenvolvimento.
-🚀 Também estudo e aplico tecnologias como HTML, CSS, JavaScript, SQL e React, ampliando minha visão sobre desenvolvimento web e soluções completas.
-📚 Estou sempre em busca de novos desafios, aprendizado constante e oportunidades para evoluir profissionalmente, contribuindo com soluções eficientes e inovadoras na área de Tecnologia da Informação.
+🎓 Graduado em Gestão da Tecnologia da Informação, graduando em Engenharia da Computação (Bacharelado) e pós-graduando em Desenvolvimento de Sistemas com Python.<br>
+🏅 Microsoft Certified: Modern Desktop Administrator (MD-100) - 2021.<br>
+💻 Profissional focado em tecnologia, desenvolvimento de software e aprendizado contínuo. Atualmente direciono meus estudos para a especialização em Python, desenvolvendo projetos e aprimorando conhecimentos em programação, automação, desenvolvimento de aplicações e boas práticas de desenvolvimento.<br>
+🚀 Também estudo e aplico tecnologias como HTML, CSS, JavaScript, SQL e React, ampliando minha visão sobre desenvolvimento web e soluções completas.<br>
+📚 Estou sempre em busca de novos desafios, aprendizado constante e oportunidades para evoluir profissionalmente, contribuindo com soluções eficientes e inovadoras na área de Tecnologia da Informação.<br>
 </td>
 </tr>
 </table>
