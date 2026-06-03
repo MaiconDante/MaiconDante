@@ -1,7 +1,7 @@
 ### 💾 About Me:
 <table>
 <tr>
-<td><img height=100 width=100 src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXl2OXJmNWdyOWV4c3o2dHUxNzJjeThocTJtN3NoZWdyY3M1ejIzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"></img></td>
+<td><img height=500 width=500 src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXl2OXJmNWdyOWV4c3o2dHUxNzJjeThocTJtN3NoZWdyY3M1ejIzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.webp"></img></td>
 <td align="center"> 
 🎓 Graduado em Gestão da Tecnologia da Informação, graduando em Engenharia da Computação (Bacharelado) e pós-graduando em Desenvolvimento de Sistemas com Python.<br>
 🏅 Microsoft Certified: Modern Desktop Administrator (MD-100) - 2021.<br>
